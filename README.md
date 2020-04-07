@@ -1,0 +1,1 @@
+This is Cosa's first git project!
